@@ -1,5 +1,5 @@
 
-# Vue 复习笔记
+#  Vue中markdown使用katex(基于mavonEditor扩展katex）
 
 # VueDemo
 
