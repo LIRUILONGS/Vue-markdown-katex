@@ -1,6 +1,8 @@
 
 #  Vue中markdown使用katex(基于mavonEditor扩展katex）
 
+[详细内容见博客：Vue中markdown使用katex(基于mavonEditor扩展katex）](https://www.cnblogs.com/liruilong/p/14731051.html)
+
 # VueDemo
 
 ## Project setup
